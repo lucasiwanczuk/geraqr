@@ -54,7 +54,7 @@ export default function ButtonExample() {
                    </form>
                   </CardContent>
                   <CardFooter className="grid w-full items-center gap-4">
-                    <Button onClick={handleGenerateQRCode} className="color">Gerar QR CODE</Button>
+                    <Button onClick={handleGenerateQRCode}>Gerar QR CODE</Button>
                   </CardFooter>
                 </Card>
                 
