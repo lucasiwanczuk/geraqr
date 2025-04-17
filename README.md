@@ -3,6 +3,7 @@
 🚀 **Descrição do Projeto:**  
 Sistema para criação de códigos QR personalizados, permitindo gerar QR codes com informações específicas, como URLs ou dados de contato, e facilitando aplicação de QR codes em campanhas, materiais promocionais ou para gestão de dados.
 
+https://geraqr.lucasiwanczuk.dev
 ---
 
 <img src="https://raw.githubusercontent.com/lucasiwanczuk/geraqr/main/dash.png" style="width:100%; border-radius: 8px;" />
