@@ -5,7 +5,7 @@ Sistema para criação de códigos QR personalizados, permitindo gerar QR codes 
 
 ---
 
-<img src="https://raw.githubusercontent.com/lucasiwanczuk/geraqr/dev/dash.png" style="width:100%; border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/lucasiwanczuk/geraqr/main/dash.png" style="width:100%; border-radius: 8px;" />
 
 
 ---
